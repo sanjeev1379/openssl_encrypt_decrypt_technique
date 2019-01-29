@@ -1,0 +1,2 @@
+# openssl_encrypt_decrypt_technique
+Encryption and Decryption Technique
